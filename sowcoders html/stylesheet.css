@@ -1,0 +1,57 @@
+h2 {
+  color: brown;
+  font-family: Candara;
+  font-size: 80px;
+  text-align: center;
+
+}
+
+h3 {
+  background-color: #Cc8fee;
+  text-align: center;
+  font-family: Candara;
+  font-size: 30px;
+}
+
+a {
+  color: green;
+}
+
+.one {
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+}
+
+.two {
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+  list-style-type: circle
+
+}
+
+.three {
+  background-color: #869fdb;
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+  list-style-type: circle;
+
+}
+
+.four {
+  background-color: #869fdb;
+  color: black;
+  font-size: 25px;
+  font-family: Helvetica;
+
+}
+
+
+
+
+
+iframe {
+  video: center;
+}
